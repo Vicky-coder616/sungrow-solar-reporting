@@ -1,0 +1,17 @@
+[
+  {
+    "site_id": "DEMO-001",
+    "date": "2026-10-01",
+    "energy_kwh": 42.5
+  },
+  {
+    "site_id": "DEMO-001",
+    "date": "2026-10-02",
+    "energy_kwh": 38.1
+  },
+  {
+    "site_id": "DEMO-002",
+    "date": "2026-10-01",
+    "energy_kwh": 51.3
+  }
+]
